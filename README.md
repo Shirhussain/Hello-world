@@ -1,2 +1,4 @@
 # Hello-world
-just another repository 
+Hi! 
+This is Mr. Shir Hussain Danishyar who is the greatest.
+I love programming.
